@@ -37,6 +37,6 @@
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
 <code><a href="https://www.asp.net/"><img alt="aspnet" title="aspnet" src="./assets/aspnet.png" height="42"></a></code>
 <code><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/"><img alt="aspnetcore" title="aspnetcore" src="./assets/aspnetcore.png" height="42"></a></code>
-<code><a href="#"><img alt="javascript" title="javascript" src="./assets/javascript" height="42"></a></code>
+<code><a href="#"><img alt="javascript" title="javascript" src="./assets/javascript.png" height="42"></a></code>
 <code><a href="https://java.com/"><img alt="aspnetcore" title="java" src="./assets/java.png" height="42"></a></code>
 </p>
