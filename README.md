@@ -12,13 +12,6 @@
     <a href="mailto:azsoftir@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p> 
 
-<table align="right">
-    <tr><td><img src="https://github.com/yaser11138/yaser11138/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><img src="https://github.com/yaser11138/yaser11138/blob/main/197484.svg" height="15"> English ★★★</td></tr>
-     <tr><td><img src="https://github.com/yaser11138/yaser11138/blob/main/Persian.png" height="15"> Persian native</td></tr>
-</table>
-
-
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28">I am Currently working on Creating Projects  Learning Back end Development and data science
 
